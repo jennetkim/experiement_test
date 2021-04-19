@@ -1,0 +1,18 @@
+h1 {
+  font-family: Lato;
+  font-size: large;
+  color:rgb(17, 5, 124);
+};
+
+
+p {
+  font-size: x-small;
+  color: rgb(10, 20, 30);
+
+}
+
+button1 {
+  font-size :large;
+  color: rgb(211, 22, 22);
+  align-items: center;
+}
