@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-export default function page_1() {
+export default function page_1(){
   return (
     <div>
       <h1>실험 테스트입니다.</h1>
