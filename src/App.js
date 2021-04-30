@@ -14,13 +14,13 @@ export default function App() {
         onclick="newPage()"
         value=" 다음 페이지로 이동"
       />
-      function newPage() {(location.href = "page2.html")}
     </div>
+
+    // <!-- function newPage() {(location.href = "page2.html")}" -->
   );
 }
-
 /*
-버튼을 누르면 다음 페이지로 이동 
+ 버튼을 누르면 다음 페이지로 이동 
 --> <input type="button" value="확인" onClick="self.location='이동할페이지';">
 
 function page_href() {
